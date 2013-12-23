@@ -1,0 +1,9 @@
+{
+  "name": "jquery-mousewheel",
+  "description": "meteor packaged jquery-mousewheel (based on https://github.com/brandonaaron/jquery-mousewheel)",
+  "homepage": "https://github.com/terryschen/meteor-jquery-mousewheel",
+  "author": "terryschen ",
+  "version": "0.0.1",
+  "git": "https://github.com/terryschen/meteor-jquery-mousewheel.git",
+  "packages": {}
+}
